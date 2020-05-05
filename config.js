@@ -8,7 +8,7 @@ const config = {
     title: 'GraphQL Nexus',
     // check all links
     links: [
-      { name: 'Docs', link: 'https://www.prisma.io/docs' },
+      { name: 'Docs', link: 'https://www.nexusjs.org/docs' },
       { name: 'Quickstart', link: 'https://www.prisma.io/docs/getting-started/quickstart' },
       {
         name: 'Reference',
@@ -17,7 +17,6 @@ const config = {
       { name: 'Blog', link: 'https://www.prisma.io/blog/' },
       { name: 'Community', link: 'https://www.prisma.io/community/' },
       { name: 'FAQ', link: 'https://www.prisma.io/docs/more/faq' },
-      { name: 'Prisma 1', link: 'https://www.prisma.io/docs/1.34' },
     ],
     search: {
       indexName: process.env.GATSBY_ALGOLIA_INDEX_NAME,
