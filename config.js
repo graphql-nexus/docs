@@ -1,6 +1,6 @@
 const config = {
   gatsby: {
-    pathPrefix: '/docs',
+    pathPrefix: '',
     siteUrl: 'https://www.nexusjs.org', // replace with nexus site
   },
   header: {
