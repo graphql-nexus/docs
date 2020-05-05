@@ -48,7 +48,7 @@ const config = {
     },
   },
   feedback: {
-    function_name: 'https://nexus-docs.netlify.com/.netlify/functions/index', // Replace with correct one
+    function_name: 'https://nexus-docs.netlify.app/.netlify/functions/index', // Replace with correct one
   },
   footer: {
     logoLink: '/',
