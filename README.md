@@ -1,5 +1,7 @@
 # Nexus Documentation
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/daf3b1fe-4f28-491b-a431-ce8cce94e291/deploy-status)](https://app.netlify.com/sites/nexus-docs/deploys)
+
 This repository contains the [source code](./src) and the [content](./content) for the [Nexus documentation](/).
 
 ## Run locally
